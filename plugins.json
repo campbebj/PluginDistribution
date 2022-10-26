@@ -3,7 +3,7 @@
         "Author": "Ottermandias",
         "Name": "Glamourer",
         "InternalName": "Glamourer",
-        "AssemblyVersion": "0.1.1.2",
+        "AssemblyVersion": "0.1.1.3",
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
