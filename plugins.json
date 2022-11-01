@@ -24,7 +24,7 @@
         "Author": "Adam",
         "Name": "Penumbra",
         "InternalName": "Penumbra",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.2",
         "Description": "Runtime mod loader and manager.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
