@@ -2,7 +2,7 @@
   "Author": "your name here",
   "Name": "Auto Penumbra Glamourer Swap",
   "InternalName": "AutoPenumbraGlamourerSwap",
-  "AssemblyVersion": "0.0.0.1a",
+  "AssemblyVersion": "0.0.0.2",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "plugin",
     "goats"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
   "LoadPriority": 0,
   "Punchline": "A short one-liner that shows up in /xlplugins."
 }
