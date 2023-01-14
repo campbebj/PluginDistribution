@@ -2,7 +2,7 @@
   "Author": "your name here",
   "Name": "Auto Penumbra Glamourer Swap",
   "InternalName": "AutoPenumbraGlamourerSwap",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
